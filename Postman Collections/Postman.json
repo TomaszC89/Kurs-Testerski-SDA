@@ -12,8 +12,36 @@
 				"disableBodyPruning": true
 			},
 			"request": {
-				"method": "GET",
-				"header": []
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://api.trello.com/1/boards/?name=Test&key=9718b002314dd73d13665a578da66eb6&token=ATTA06872c3d4811e004fa326349489418617b45dedb988b769df3c46d3d8b6ec95e86E81F67",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"boards",
+						""
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Test"
+						},
+						{
+							"key": "key",
+							"value": "9718b002314dd73d13665a578da66eb6"
+						},
+						{
+							"key": "token",
+							"value": "ATTA06872c3d4811e004fa326349489418617b45dedb988b769df3c46d3d8b6ec95e86E81F67"
+						}
+					]
+				}
 			},
 			"response": []
 		}
