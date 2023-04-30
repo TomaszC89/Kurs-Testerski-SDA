@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post",
+			"name": "Create a Board",
 			"id": "67e9bd6f-e9d2-46bd-ae26-c10d41b5e0d7",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
