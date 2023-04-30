@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "4f769958-95d2-4111-9c04-e087dd6ae267",
-		"name": "Trello REST API",
+		"name": "Trello API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
