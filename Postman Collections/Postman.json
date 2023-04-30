@@ -4,18 +4,5 @@
 		"name": "Trello API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
-	"item": [
-		{
-			"name": "New Request",
-			"id": "1fe208a3-7ece-4bbc-810a-80524108883f",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		}
-	]
+	"item": []
 }
