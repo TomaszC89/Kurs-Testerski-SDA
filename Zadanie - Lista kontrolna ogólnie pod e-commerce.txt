@@ -1,0 +1,47 @@
+WERYFIKACJA POPRAWNOŚCI LINKÓW
+1.A. Sprawdzenie czy linki produktów otwierają się poprawnie.
+1.B. Sprawdzenie czy logo strony przekierowuje do strony głównej.
+1.C. Sprawdzenie czy górne zakładki przekierowują na prawidłowe podstrony.
+1.D. Sprawdzenie czy główny banner slider kieruje do danego produktu lub działu.
+1.E. Sprawdzenie czy kategorie produktów kierują do wybranego działu.
+1.F. Sprawdzenie czy w ramach kategorii da się przejść do następnej/poprzedniej strony.
+
+KATEGORIE PRODUKTÓW
+2.A. Sprawdzenie czy wybranie kategorii przekierowuje do odpowiednich produktów.
+2.B. Sprawdzenie czy kategorie dzielą się na podkategorie i odpowiednio linkują.
+2.C. Sprawdzenie czy są dostępne filtry oraz sortowanie produktów w danej kategorii.
+
+SZCZEGÓŁOWE STRONY PRODUKTU
+3.A. Sprawdzenie czy zdjęcia produktów wyświetlają się poprawnie (rozciągnięcie, rozmazanie, czy da się powiększyć, używać slidera po kliknięciu na zdjęcie).
+3.B. Sprawdzenie poprawności wyświetlania tytułu (bez krzaczków np. w polskich literach).
+3.C. Sprawdzenie czy opis jest poprawnie sformatowany i się nie "rozjeżdża".
+3.D. Sprawdzenie czy opis można zwinąć/rozwinąć.
+3.E. Sprawdzenie czy produkt dodaje się do koszyka.
+
+WYSZUKIWARKA
+4.A. Sprawdzenie czy wyszukiwarka przyjmuje polskie znaki i cyfry.
+4.B. Sprawdzenie czy wyszukiwarka podpowiada produkt po wpisaniu jego pierwszych liter.
+4.C. Sprawdzenie czy wyszukiwarka podpowiada (pod)kategorię w której chcemy szukać.
+4.D. Sprawdzenie czy wyszukiwarka pozwala wybrać dodatkowe parametry jak ilość osób, miejsce docelowe (np. w bookingach).
+
+KOSZYK
+5.A. Sprawdzenie czy produkt faktycznie jest w koszyku po jego dodaniu.
+5.B. Sprawdzenie czy cena produktu zgadza się z ceną w koszyku.
+5.C. Sprawdzenie czy dodanie kolejnego produktu do koszyka spowoduje zmianę ceny.
+5.D. Sprawdzenie czy dodanie kodu rabatowego wpłynie na cenę.
+5.E. Sprawdzenie czy wyświetlają się koszty dostawy i zmieniają w czasie zmiany ilości i wartości produktów w koszyku.
+
+PRZEJŚCIE DO KASY
+6.A. Sprawdzenie czy można przejść do kasy od razu po dodaniu produktu z pominięciem koszyka.
+6.B. Sprawdzenie czy można przejść do kasy, gdy użytkownik nie jest zalogowany.
+6.C. Sprawdzenie czy można przejść do kasy, gdy użytkownik jest zalogowany.
+6.D. Sprawdzenie czy z poziomu koszyka działa rejestracja użytkownika i po niej dalsze realizowanie płatności.
+6.E. Sprawdzenie czy z poziomu koszyka można się zalogować, by przejść do płatności.
+
+PŁATNOŚĆ
+7.A. Sprawdzenie czy już są podane lub można uzupełnić dane użytkownika oraz do dostawy.
+7.B. Sprawdzenie czy można wybrać sposób dostawy.
+7.C. Sprawdzenie czy można wpisać lub usunąć kod rabatowy już po przejściu do płatności z koszyka.
+7.D. Sprawdzenie czy można wybrać sposób płatności, wybór karty, Blika, zwykłego przelewu itd.
+7.E. Sprawdzenie czy zatwierdzenie płatności pokaże wcześniej jakieś ostateczne podsumowanie.
+7.F. Sprawdzenie czy zatwierdzenie płatności przekieruje do danej bramki płatniczej lub strony z informacją jak dokonać przelewu/płatności z odbiorem osobistym.
