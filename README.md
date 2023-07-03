@@ -1,3 +1,5 @@
 # Kurs-Testerski-SDA
 
-Mój kurs testerski z SDA, tutaj będę trzymać efekty mojej pracy podczas szkolenia.
+Mój kurs testerski z SDA. Tutaj będę trzymać efekty mojej pracy podczas szkolenia.
+
+GIT w trakcie rozbudowy.
