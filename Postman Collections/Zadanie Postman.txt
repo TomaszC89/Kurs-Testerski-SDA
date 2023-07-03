@@ -1,0 +1,7 @@
+1. Stworzenie boarda.
+2. Ręcznie usunąć istniejące tabelki
+3. Dodać listę to do, in progress, pretesting, testing, documentation, done
+4. Do każdej kolumny dodać jedną karteczkę z nazwą i treścią
+5. Do karteczki w in progress dodać checklist
+6. Do każdej listy dodać jedną labelkę (nazwa i kolor dowolny)
+7. Dodać description do boarda
